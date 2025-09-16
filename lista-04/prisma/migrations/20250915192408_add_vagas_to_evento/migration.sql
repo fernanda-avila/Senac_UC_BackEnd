@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE `evento` ADD COLUMN `vagas` INTEGER NOT NULL DEFAULT 30;
